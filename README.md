@@ -1,3 +1,3 @@
 # Полёт снаряда
 
-<a href="">дык</a>
+<a href="https://haskell-md2.github.io/balistics/">дык</a>
